@@ -1,0 +1,5 @@
+<!-- res/color/default_image_color.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#CCCCCC" android:state_enabled="false"/>
+    <item android:color="#AAAAAA"/>
+</selector>

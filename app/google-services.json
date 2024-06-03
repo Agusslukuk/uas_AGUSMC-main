@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "454994488456",
+    "firebase_url": "https://uas-agus-default-rtdb.firebaseio.com",
+    "project_id": "uas-agus",
+    "storage_bucket": "uas-agus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454994488456:android:0e9cfc751d2a478a81033d",
+        "android_client_info": {
+          "package_name": "com.example.uas_agus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC_ws2LJ9XitT9pf1Q9qkcXzYP1kmxjzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454994488456:android:67759dafc3414e3d81033d",
+        "android_client_info": {
+          "package_name": "com.example.uas_ali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC_ws2LJ9XitT9pf1Q9qkcXzYP1kmxjzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
